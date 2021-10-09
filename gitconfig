@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = cailleret.catherine00@gmail.com
-	name = catherine cailleret
+	email = "# If you got \"zsh: command not found: rvm\", carry on. It means `rvm` is not"
+	name = rvm implode && sudo rm -rf ~/.rvm
